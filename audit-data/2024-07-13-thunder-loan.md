@@ -1,7 +1,7 @@
 ---
 title: Thunder Loan Audit Report
-author: YOUR_NAME_HERE
-date: September 1, 2023
+author: 0xSaz
+date: July 13, 2024
 header-includes:
   - \usepackage{titling}
   - \usepackage{graphicx}
@@ -17,7 +17,7 @@ header-includes:
     \vspace{1cm}
     {\Large Version 0.1\par}
     \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
+    {\Large\itshape \par}
     \vfill
     {\large \today\par}
 \end{titlepage}
@@ -26,10 +26,10 @@ header-includes:
 
 # Thunder Loan Audit Report
 
-Prepared by: YOUR_NAME_HERE
-Lead Auditors: 
+Prepared by: 0xSaz
+Lead Auditors: 0xSaz
 
-- [YOUR_NAME_HERE](enter your URL here)
+- [0xSaz](enter your URL here)
 
 Assisting Auditors:
 
